@@ -8,11 +8,17 @@ Tell me your favorite movie.
 # List
 - The big blue
 - TENET
+- Top Gun
 - Whiplash  
 - Saw
 - IT
+- Digimon Adventure Our War Game!
 - Transformers: Revenge of the Fallen
 - Interstellar
+- Kokuhaku（告白）
+- Catch me if you can
+- The Dark Knight
+
 
 (add your favorite movie!))
 
